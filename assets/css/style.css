@@ -156,6 +156,11 @@ h3, h2 {
   opacity: 0.8;
 }
 
+.row img {
+  width: 100%;
+  border: 0 none;
+}
+
 .work h3 {
   position: absolute;
   bottom: 20px;
